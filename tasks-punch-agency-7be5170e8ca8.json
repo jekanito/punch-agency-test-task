@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tasks-punch-agency",
+  "private_key_id": "7be5170e8ca8b19396012215fac3da0c5a86cce1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLUHWgaeZZRkeI\nHrm5xm8Uay2flAvbyrAbYGhD4vxlHAnoKxk+m7rVevWrTlPdDOW5ornaC6DQ9ohh\n984Z0mz8lItVqo5St0TE4QEXXdmNUgxpGaREWX0IhyahlSkvw888x7Sl6uuyJqUW\n9X1+/awtuSsO9uh1EqxPDLmyrrFy1FwfE+uxmRq7xN59qnmCD2MWcv66Btm3YrG8\nIv2caI+S08wnJ4+0c/4yLHw2yhttxqlHvhkU8sEsAfSLntenKoNdI9pRZt8kfqmJ\n3qM5gJC/Lilcw4Pjta+DHoFMULeTBAuDDk87uYrnZkGfG63s0whO4ULtQlBsuPEJ\naPjKzL4zAgMBAAECggEAAbvJEutubdr1heiX+AtTk4X35d3yPdRqV5TeB0Y6TMnK\nB8UNhd1rOD/U8cJCQeRosWQoeuGdKSyAKvPp8SFQsN3qU/EQ30+ff/Gq0U8eJ2eH\ndwFWLXGNoD8KSIVyI0GFASUdBtmDAE8By+TXIG7opxMASanh358RXNR0NRh+Zcbh\nAVUx+oX7Mlz+f8cyQ/764q2kV8pWbxT21uvKShnSxF/8QEsJ9K1lB/d14ojzletF\ndalTaS5Ml+AVYjshT+8rBA+cJ1T0vMtDxNNfdw27hnMdHoliqIk8ONtao19LUXEt\n3Bcm5fbCrq5oUYvXchGoLD8nC037aoHTB5GNkxlssQKBgQC+xsSaZDB2j60pW9Ds\ngLik0TYlp/DkGm+Dg5mQAit5k1a59k4WcMA8ta7eU52sXmvFf5SQlo3d+Fx7eGPC\nY4O3tOWcD9tMGx6YlO0AGkEwEhL5E8JQUR5Vh967DOuAT6naRHNxb7WG7Krs6Qni\n8IQZoiw53BCWWnDiPGEpTKX0QwKBgQC68ZiFB7tKIGrwYJJvR5RO79fqq9lNiQxR\nkpcsp9vQFsvTKbH/tdu3A3peAazJ0qgm0w9MYFlX7KU8E4pVcLR3dJBsGzZ7GbLD\njDUx+kzZ8sCaBzzI3X54jzzLMwRP/QkbV7b3MBsK52XJ0SxST+9s5l2sye05NiZM\n1VLKvHbnUQKBgHIfLVS+Qk9qO0fWaPBRQCM4E5ALGosZVUPy4VXINoGPpf2wXZ4G\n7LhkZqsQke2evhFy9EhaB5uVCp3BssuCBDVMvV3SDnlEb9UOoYfCLOS4qyjcrQym\nueKoWJDEdcxX2196OyTMkmaYBNebwBJFloBPBu3FuxZ2G7j6LZUrCMtJAoGAJDzw\n89ir1ZKzKCWQPUIC3cpgcH0fgogueyGPbHidg5jnqedLOeZm0PM7pT1t4TGUpvIC\n5StIJmMZJKwlBKr0ULOny0z7IqG4pW9oYGfEvfrwmusMPWOyQGyDvGAHVfoW6dX3\nAbOxikuQz65ciRg1sUZ2oigCdDSq9/niMqqV4gECgYEAsWsnOH1uMPR4jUK7UZcv\nEp+4podiO+cnOKv+fmGMMVdbrNn+vZsfkLZMTsPmF/j36F7T8dKAVYgJBXRlI40E\nJ01HTh8ZJ2CEzWfEA9+vXXRvtT4G6MdYT8SblTH1XmZVEsk2DWKbwoSg5YL//l8I\nPkgz89ki401VvdTv19JDCe0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tasks-punch-agency@tasks-punch-agency.iam.gserviceaccount.com",
+  "client_id": "110109558429570985217",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tasks-punch-agency%40tasks-punch-agency.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
